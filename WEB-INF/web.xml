@@ -21,70 +21,9 @@
                       http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
   version="4.0">
 
-  <display-name>Personal Diary</display-name>
+  <display-name>Medico</display-name>
   <description>
      Medico
   </description>
-
-<!--
-  <servlet>
-    <servlet-name>SignUpServlet</servlet-name>
-    <servlet-class>com.personaldiary.SignUpServlet</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>SignInServlet</servlet-name>
-    <servlet-class>com.personaldiary.SignInServlet</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>LoadNotesServlet</servlet-name>
-    <servlet-class>com.personaldiary.LoadNotesServlet</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>SaveNoteServlet</servlet-name>
-    <servlet-class>com.personaldiary.SaveNoteServlet</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>GetUserInfoServlet</servlet-name>
-    <servlet-class>com.personaldiary.GetUserInfoServlet</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>LoadUserNotesServlet</servlet-name>
-    <servlet-class>com.personaldiary.LoadUserNotesServlet</servlet-class>
-  </servlet>
-
-  <servlet>
-    <servlet-name>TempServlet</servlet-name>
-    <servlet-class>medicobackend.TempServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>TempServlet</servlet-name>
-    <url-pattern>/TempServlet</url-pattern>
-  </servlet-mapping>
-  
-  <servlet-mapping>
-    <servlet-name>SignUpServlet</servlet-name>
-    <url-pattern>/SignUpServlet</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>SignInServlet</servlet-name>
-    <url-pattern>/SignInServlet</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>LoadNotesServlet</servlet-name>
-    <url-pattern>/LoadNotesServlet</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>SaveNoteServlet</servlet-name>
-    <url-pattern>/SaveNoteServlet</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>GetUserInfoServlet</servlet-name>
-    <url-pattern>/GetUserInfoServlet</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>LoadUserNotesServlet</servlet-name>
-    <url-pattern>/LoadUserNotesServlet</url-pattern>
-  </servlet-mapping>
--->
 
 </web-app>
