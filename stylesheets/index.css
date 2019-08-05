@@ -1,0 +1,3 @@
+.card-sec-2 { max-height: 500px; cursor: pointer !important; }
+#skew-y-1 { transform: skewY(15deg); top: 150px; min-height: 500px; }
+#skew-y-1-fill { top: 400px; min-height: 500px; }

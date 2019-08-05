@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400');
+* { box-sizing: border-box; padding: 0px; margin: 0px; font-family: 'Roboto', sans-serif; }
+html, body { height: 100%; overflow-x: hidden; }
+.outer-container { height: 100%; }
+a { color: #333; text-decoration: none; }
+.border-c-0 { border-color: #000; }
+.border-c-1 { border-color: #333; }
+.border-c-2 { border-color: #777; }
+.border-c-3 { border-color: #AAA; }
+.border-c-4 { border-color: #DDD; }
+.border-c-5 { border-color: #FFF; }
+.card { border: 1px solid #cbcbcb; border-radius: 5px; box-shadow: 2px 2px 7px 1px #AAA; padding: 10px; cursor: default; }
+.grad-primary-pinch-t { background: linear-gradient(#EFFFFF, #FFF) !important; }
+.grad-primary-pinch-b { background: linear-gradient(#FFF, #EFFFFF) !important; }
+.btn-primary-o { color: #20C4CB; background-color: transparent; border: 2px solid #20C4CB; }
+.btn-primary { color: #FFF; background-color: #20C4CB; border: none; }
+.btn-primary, .btn-primary-o { border-radius: 5px; box-shadow: 2px 2px 7px 1px #AAA; cursor: pointer; padding: 10px 20px; font-weight: bolder; }
+.bar { height: 2px; width: 100%; background-color: #9A9A9A; }

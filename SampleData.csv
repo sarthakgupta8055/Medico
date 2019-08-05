@@ -1,0 +1,13 @@
+DOCTOR,PATIENT,PRESCRIPTION
+Arun Kumar,Rajesh Goyal,Arun Kumar
+9820420420,70,"69 A, Station Road"
+32,9988776669,9820420420
+arun_kumar1,1234-1234-1234,10:30  to 01:00    05:00 to 08:30
+Arun@12,,Rajesh Goyal
+A12345,,70
+"MBBS, MD, DM",,69
+ENT,,Fever
+"69 A, Station Road",,Crocin
+"69 B, Downing Street",,Blood Test
+10:30  to 01:00,,R S Ratra
+05:00 to 08:30,,"22 July, 2019      28 July, 2019"

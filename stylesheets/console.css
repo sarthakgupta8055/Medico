@@ -1,0 +1,6 @@
+.header-container { min-height: 59px; }
+.header { padding: 2px; }
+.main { height: 100vh; }
+.side-nav-container { top: 0; bottom: 0; width: 20%; }
+.nav-item { -webkit-transition: background-color 0.3s; -o-transition: background-color 0.3s; -moz-transition: background-color 0.3s; -ms-transition: background-color 0.3s; transition: background-color 0.3s; }
+.nav-item:hover { background-color: #FFF; }
